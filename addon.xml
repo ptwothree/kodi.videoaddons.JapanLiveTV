@@ -25,7 +25,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Japanese Live TV links</summary>
-    <description lang="en">Japanese TV!</description>
+    <description lang="en">A handful of links collected from the internet of live Japanese TV streams.  Some streams may go down from time to time, so this list of links will automatically change periodically.</description>
     <platform>all</platform>
   </extension>
 </addon>
