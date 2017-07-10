@@ -1,6 +1,13 @@
 <item>
-<title>Vevo</title>
-<link>http://stream2.mov3.co/hls/kanto.m3u8</link>
+<title>Asahi TV</title>
+<link>http://stream1.shopch.jp/HLS/out1/prog_index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Asahi TV</title>
+<link>http://stream1.shopch.jp/HLS/out2/prog_index.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
