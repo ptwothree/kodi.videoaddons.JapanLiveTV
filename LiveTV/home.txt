@@ -2,12 +2,13 @@
 
 
 <channels>
+
 <channel>
 <name>Japanese Live TV</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/ptwothree/kodi.videoaddons.JapanLiveTV/master/LiveTV/live.txt</externallink>
-<fanart></fanart>
-<info>SimpleKore.com</info>
+<fanart>https://github.com/ptwothree/kodi.videoaddons.JapanLiveTV/raw/master/fanart.jpg</fanart>
+<info>Brought to you by project23</info>
 </channel>
 
 
