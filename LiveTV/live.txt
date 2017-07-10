@@ -1,0 +1,6 @@
+<item>
+<title>Vevo</title>
+<link>http://stream2.mov3.co/hls/kanto.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
