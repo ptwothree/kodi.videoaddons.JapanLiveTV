@@ -1,6 +1,6 @@
 <item>
 <title>NHK World Japan</title>
-<link>http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live.m3u8 </link>
+<link>http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live.m3u8</link>
 <thumbnail></thumbnail>
 <fanart>https://i.ytimg.com/vi/zzrbUsSvYRo/maxresdefault.jpg</fanart>
 </item>
@@ -9,6 +9,13 @@
 <item>
 <title>Japanese Shopping TV</title>
 <link>http://stream1.shopch.jp/HLS/out1/prog_index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>j</title>
+<link>rtmp://edge2.everyon.tv/etv2/phd61</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
