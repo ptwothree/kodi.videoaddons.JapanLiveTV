@@ -14,8 +14,8 @@
 </item>
 
 <item>
-<title>j</title>
-<link>rtmp://edge2.everyon.tv/etv2/phd61</link>
+<title>Kansai TV</title>
+<link>rtmp://66.55.92.162/app/_definst_/kansai-channel</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
